@@ -1,0 +1,20 @@
+.minha-lista {
+    text-decoration: none;
+    display: block;
+}
+
+.button-style {
+    color: #fff;
+    background-color: rgba(130, 130, 197, 0.5);
+    width: 200px;
+    height: 45px;
+}
+
+
+.button-style:hover, .button-style:focus {
+    color: #fff;
+    background-color: rgba(224, 116, 116, 0.5);
+    width: 200px;
+    height: 45px;
+}
+
